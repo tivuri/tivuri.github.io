@@ -1,0 +1,57 @@
+---
+title: "Tervetuloa sivulleni!"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+
+***
+## **Hieman minusta**
+
+![](giba.png){align=right}
+
+Opiskelen tietotekniikkaa OAMK:ssa ja opiskelujen lisäksi käyn Postilla töissä.
+
+* Harrastukset:
+  + &#x1F3D0; Lentopallo (katso kuva oikealla)
+  + &#X1F3CB; Kuntosali
+  + &#X1F3AE; Videopelit
+  
+
+
+***
+
+# Muuta
+
+Tietokoneella istuessa, koulun lisäksi tulee vietettyä aikaa esim. näillä sivuilla &#x1F60A;
+
+
+[Reddit](https://www.reddit.com/)
+
+<div style="text-align: center;">
+<a href="https://www.imdb.com/">IMDb</a>
+</div>
+<div style="text-align: right;">
+<a href="https://www.youtube.com/">Youtube</a>
+</div>
+***
+
+# 
+
+&#x2757; Huomio
+  
+>Tämä sivu on testimielessä tehty, jotta pääsin kokeilemaan R Markdownilla sivun luontia.
+
+***
+
+&#x2714; Ilmoitus
+
+>"Sivu" on luotu käyttäen RStudiota ja Markdownia.
+
+>[RStudio](https://posit.co/download/rstudio-desktop/)
+
+>[Markdown](https://www.markdownguide.org/)
+
+
+

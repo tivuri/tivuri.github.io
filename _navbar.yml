@@ -1,0 +1,14 @@
+name: "My website"
+title: "Tinon nettisivu"
+type: inverse
+left:
+  - text: "Lähteet"
+    menu:
+      - text: "Markdown"
+        href: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+      - text: "RStudio"
+        href: https://posit.co/download/rstudio-desktop/
+right:
+  - icon: fa-github fa-lg
+  - text: "Tästä Github sivulle"
+    href: https://github.com/tivuri
